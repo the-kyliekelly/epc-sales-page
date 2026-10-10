@@ -1,16 +1,17 @@
 # The Empowered Parent Collective: sales page
 
-This is your sales page. It's one web page (`index.html`) plus two images. You can change it yourself by asking an AI tool like Claude or ChatGPT. You don't need to know how to code.
+This is your sales page. It's one web page (`index.html`) plus two images and your brand font. You can change it yourself by asking an AI tool like Claude or ChatGPT. You don't need to know how to code.
 
 ## What's in this folder
 
 | File | What it is |
 |---|---|
-| `index.html` | The whole page: all the words, colours and buttons |
+| `index.html` | The whole page: all the words, colors and buttons |
 | `lisa.jpg` | Your photo in the "Meet your guide" section |
 | `inside-bg.jpg` | The soft purple background behind "What's inside" |
+| `fonts/` | Glacial Indifference, your body font (free to use under the SIL Open Font License; the license file is in the folder) |
 
-Keep all three files together in the same folder. If one goes missing, its image disappears from the page.
+Keep everything together in the same folder. If a file goes missing, its image or font disappears from the page.
 
 ## How to see the page
 
@@ -38,7 +39,7 @@ Then write your change in plain words, for example:
 Look for anything in [square brackets] on the page. Right now that's:
 - The enrollment dates (top of the page and the last line before the footer)
 - The checkout links for monthly and annual
-- How people should enquire about private support (in the FAQ)
+- How people should inquire about private support (in the FAQ)
 - The privacy and terms links
 
 All of these except the private support wording are in the SETTINGS block at the bottom of `index.html`. Ask your AI: "Put my checkout link [paste link] into the settings."
